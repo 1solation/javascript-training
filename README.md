@@ -1,6 +1,6 @@
-# javascript-training
+# all things web training
 
-A collection of some JavaScript courses/katas I've done for personal & professional development.
+A collection of some courses/katas I've done for personal & professional development.
 
 ## Authors
 
